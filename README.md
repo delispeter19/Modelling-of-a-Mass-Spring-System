@@ -1,1 +1,1 @@
-# Modelling-of-a-Mass-Spring-System
+# Modelling of a Mass Spring System
