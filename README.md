@@ -16,6 +16,9 @@ git clone https://github.com/delispeter19/springsdiffeq.git
 ```
 
 ## Basic Usage
+At the start of each jupyter notebook, you will find a parameter screen for masses, spring constants, and 3 possible initial conditions.
+
+The masses and spring constants will determine the nature of the parameter matrix <i>P</i> defined later in the code. Each set of initial conditions will share these characteristics.  
 
 ```
 #PARAMETERS:
