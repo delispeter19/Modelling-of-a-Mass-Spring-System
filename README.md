@@ -31,7 +31,6 @@ c1=1 ; c2=5 ; c3=3 ; c4=4 ; c5=3
 There are also 3 possible initial conditions to modify and test. Each set of initial conditions will share the mass and spring constant parameters above. 
 
 ```
-
 #INITIAL CONDITIONS:
 
 #Initial Conditions 1:
