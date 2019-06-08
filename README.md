@@ -13,7 +13,7 @@ Check out our new 3D version!!!
 <hr>
 
 <div align="center">
-	<img align="middle" height="200px" src="Assets\3DSpring1.gif" />
+	<img align="middle" height="250px" src="Assets\3DSpring1.gif" />
 	<img align="middle" height="150px" src="Assets\D1.png" />
 	<img align="middle" height="200px" src="Assets\UndampedFreeAni.gif" />
 </div>
