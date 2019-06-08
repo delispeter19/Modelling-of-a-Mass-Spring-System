@@ -6,7 +6,7 @@ In this repository, you will find the <b>Code</b> necessary to <b>Graph</b> and 
 
 <div align="center">
 	<img align="middle" height="250px" src="Assets\D1.png" />
-	<img align="middle" height="400px" src="Assets\UndampedFreeAni.gif" />
+	<img align="middle" height="300px" src="Assets\UndampedFreeAni.gif" />
 </div>
 
 ## Installation
