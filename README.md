@@ -6,6 +6,8 @@ This project was part of a comprehensive assessment at Vanier College under our 
 
 <a href="http://euclid.vaniercollege.qc.ca/~iti/proj/John_Peter_MS.pdf"><b><i>Click Here</i></b></a> to see the associated paper.
 
+Check out our new 3D version!!!
+
 
 
 <hr>
