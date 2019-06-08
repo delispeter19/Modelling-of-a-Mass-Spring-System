@@ -14,6 +14,7 @@ In your Command Prompt (Cmd) type the following:
 ```
 git clone https://github.com/delispeter19/springsdiffeq.git
 ```
+Another option is just to clone/download the zip file from above.
 
 ## Basic Usage
 At the start of each jupyter notebook, you will find a parameter screen for masses, spring constants. The masses and spring constants will determine the nature of the parameter matrix <i>P</i> defined later in the code.
