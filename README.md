@@ -16,9 +16,7 @@ git clone https://github.com/delispeter19/springsdiffeq.git
 ```
 
 ## Basic Usage
-At the start of each jupyter notebook, you will find a parameter screen for masses, spring constants, and 3 possible initial conditions similar to the python code below.
-
-The masses and spring constants will determine the nature of the parameter matrix <i>P</i> defined later in the code. Each set of initial conditions will share these characteristics.  
+At the start of each jupyter notebook, you will find a parameter screen for masses, spring constants. The masses and spring constants will determine the nature of the parameter matrix <i>P</i> defined later in the code.
 
 ```
 #PARAMETERS:
@@ -29,7 +27,10 @@ m1=5 ; m2=1 ; m3=2 ; m4=4 ; m5=6
 #Spring constants:
 c1=1 ; c2=5 ; c3=3 ; c4=4 ; c5=3
 
-#----------------------------------------------------------------------------------------
+```
+There are also 3 possible initial conditions to modify and test. Each set of initial conditions will share the mass and spring constant parameters above. 
+
+```
 
 #INITIAL CONDITIONS:
 
@@ -51,3 +52,5 @@ du13=0. ; du23=1. ; du33=0. ; du43=0. ; du53=0.
       
 ic3m=[u13,u23,u33,u43,u53,du13,du23,du33,du43,du53]
 ```
+The above screen is essentially how you can change the animations and graphs.
+
