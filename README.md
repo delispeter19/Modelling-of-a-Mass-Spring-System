@@ -5,5 +5,5 @@ In this repository, you will find the <b>Code</b> necessary to <b>Graph</b> and 
 <hr>
 
 <div align="center">
-	<img align="middle" src="Graphs\Undamped and Free Graphs\D1.pdf"/>
+	<img align="middle" src="Assets\D1.png"/>
 </div>
