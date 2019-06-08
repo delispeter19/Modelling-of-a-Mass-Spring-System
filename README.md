@@ -14,3 +14,9 @@ In your Command Prompt (Cmd) type the following:
 ```
 git clone https://github.com/delispeter19/springsdiffeq.git
 ```
+
+## Basic Usage
+
+```
+<img align="middle" height="250px" src="Assets\parameters.png" />
+```
