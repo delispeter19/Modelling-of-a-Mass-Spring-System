@@ -18,5 +18,33 @@ git clone https://github.com/delispeter19/springsdiffeq.git
 ## Basic Usage
 
 ```
-<img align="middle" height="250px" src="Assets\parameters.png" />
+#PARAMETERS:
+
+#Masses:
+m1=5 ; m2=1 ; m3=2 ; m4=4 ; m5=6
+
+#Spring constants:
+c1=1 ; c2=5 ; c3=3 ; c4=4 ; c5=3
+
+#----------------------------------------------------------------------------------------
+
+#INITIAL CONDITIONS:
+
+#Initial Conditions 1:
+u11=0. ; u21=0. ; u31=0. ; u41=0. ; u51=1.
+du11=0. ; du21=0. ; du31=0. ; du41=0. ; du51=0.
+
+ic1m=[u11,u21,u31,u41,u51,du11,du21,du31,du41,du51]
+
+#Initial Conditions 2:
+u12=0. ; u22=0. ; u32=0. ; u42=0. ; u52=0.
+du12=0. ; du22=1. ; du32=0. ; du42=0. ; du52=0.
+
+ic2m=[u12,u22,u32,u42,u52,du12,du22,du32,du42,du52]
+
+#Initial Conditions 3:
+u13=0. ; u23=0. ; u33=0. ; u43=0. ; u53=1.
+du13=0. ; du23=1. ; du33=0. ; du43=0. ; du53=0.
+      
+ic3m=[u13,u23,u33,u43,u53,du13,du23,du33,du43,du53]
 ```
