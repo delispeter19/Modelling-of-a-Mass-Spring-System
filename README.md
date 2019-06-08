@@ -10,8 +10,7 @@ In this repository, you will find the <b>Code</b> necessary to <b>Graph</b> and 
 </div>
 
 ## Installation
+In your Command Prompt (Cmd) type the following:
 ```
-In your Command Prompt (Cmd) type:
-
 git clone https://github.com/delispeter19/springsdiffeq.git
 ```
