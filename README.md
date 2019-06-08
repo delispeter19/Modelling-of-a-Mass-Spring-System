@@ -2,6 +2,12 @@
 
 In this repository, you will find the <b>Code</b> necessary to <b>Graph</b> and <b>Animate</b> a Mass Spring System of 5 masses. 
 
+This project was part of a comprehensive assessment at Vanier College under our professor Ivan Ivanov.
+
+Below is a link to the associated paper.
+
+<a href="http://euclid.vaniercollege.qc.ca/~iti/proj/John_Peter_MS.pdf"><b><i>Modelling of a Mass Spring System Paper</i></b></a>
+
 <hr>
 
 <div align="center">
